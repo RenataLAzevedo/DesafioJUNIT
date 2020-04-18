@@ -1,3 +1,7 @@
+RM 81588	
+Renata de Lima Azevedo
+//código 
+
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
@@ -10,3 +14,9 @@ class JulgamentoPrisioneiroTest {
 	}
 
 }
+
+//relatório
+1º rodada "Resposta cannot be resolved to a variable"
+	Necessária criação da classe "resposta"
+ "PENA_CONDENACAO_MUTUA cannot be resolved to a variable"
+	sem acesso a variável PENA_CONDENACAO_MUTUA
