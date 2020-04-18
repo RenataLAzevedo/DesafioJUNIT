@@ -50,7 +50,7 @@ public class JulgamentoPrisioneiroTest extends TestCase {
 
 //relatório
 1º rodada - Unresolved compilation problem
-	Alterar o tipo de parâmetro para "String"
+	Alterar o tipo de parâmetro para "String" pois esta específicado como uma classe do tipo enum (poderia ser criada a classe, mas escolhi alterar o tipo da váriavel)
 
 2º rodada - junit.framework.AssertionFailedError: expected:<1> but was:<10>
 	Alterar a variável PENA_CONDENACAO_CUMPLICES para 1
