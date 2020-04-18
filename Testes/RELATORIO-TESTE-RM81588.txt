@@ -63,3 +63,6 @@ public class JulgamentoPrisioneiroTest extends TestCase {
 
 5º rodada - junit.framework.AssertionFailedError: expected:<1> but was:<10>
 	correção dos retornos
+
+6º rodada - org.opentest4j.AssertionFailedError: expected: <15> but was: <5>
+	Corrigir o valor da pena para 5
