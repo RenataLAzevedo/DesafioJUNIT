@@ -52,7 +52,8 @@ public class JulgamentoPrisioneiroTest extends TestCase {
 1º rodada - Unresolved compilation problem
 	Alterar o tipo de parâmetro para "String"
 
-2º rodada - rg.opentest4j.AssertionFailedError: expected: <11> but was: <10>
-Alterar a variável PENA_CONDENACAO_CUMPLICES para 1
+2º rodada - junit.framework.AssertionFailedError: expected:<1> but was:<10>
+	Alterar a variável PENA_CONDENACAO_CUMPLICES para 1
 
-	
+3º rodada - junit.framework.AssertionFailedError: expected:<1> but was:<10>
+	Alterar PENA_INOCENCIA para 0
