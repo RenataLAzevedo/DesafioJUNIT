@@ -60,3 +60,6 @@ public class JulgamentoPrisioneiroTest extends TestCase {
 
 4º rodada - unit.framework.AssertionFailedError: expected:<1> but was:<10>
 	Bloco de verificação com "Culpado" ao invéz de "culpado"
+
+5º rodada - junit.framework.AssertionFailedError: expected:<1> but was:<10>
+	correção dos retornos
