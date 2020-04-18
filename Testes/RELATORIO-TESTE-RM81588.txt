@@ -65,4 +65,4 @@ public class JulgamentoPrisioneiroTest extends TestCase {
 	correção dos retornos
 
 6º rodada - org.opentest4j.AssertionFailedError: expected: <15> but was: <5>
-	Corrigir o valor da pena para 5
+	Corrigir o valor da variável PENA_CONDENACAO_MUTUA para 5
